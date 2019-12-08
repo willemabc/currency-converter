@@ -1,0 +1,618 @@
+[
+    {
+        "name": "U.S. Dollar (USD)",
+        "url": "http://www.floatrates.com/daily/usd.json"
+    },
+    {
+        "name": "Euro (EUR)",
+        "url": "http://www.floatrates.com/daily/eur.json"
+    },
+    {
+        "name": "U.K. Pound Sterling (GBP)",
+        "url": "http://www.floatrates.com/daily/gbp.json"
+    },
+    {
+        "name": "Australian Dollar (AUD)",
+        "url": "http://www.floatrates.com/daily/aud.json"
+    },
+    {
+        "name": "Canadian Dollar (CAD)",
+        "url": "http://www.floatrates.com/daily/cad.json"
+    },
+    {
+        "name": "Japanese Yen (JPY)",
+        "url": "http://www.floatrates.com/daily/jpy.json"
+    },
+    {
+        "name": "Swiss Franc (CHF)",
+        "url": "http://www.floatrates.com/daily/chf.json"
+    },
+    {
+        "name": "Comoro franc (KMF)",
+        "url": "http://www.floatrates.com/daily/kmf.json"
+    },
+    {
+        "name": "Afghan afghani (AFN)",
+        "url": "http://www.floatrates.com/daily/afn.json"
+    },
+    {
+        "name": "Albanian lek (ALL)",
+        "url": "http://www.floatrates.com/daily/all.json"
+    },
+    {
+        "name": "Algerian Dinar (DZD)",
+        "url": "http://www.floatrates.com/daily/dzd.json"
+    },
+    {
+        "name": "Angolan kwanza (AOA)",
+        "url": "http://www.floatrates.com/daily/aoa.json"
+    },
+    {
+        "name": "Argentine Peso (ARS)",
+        "url": "http://www.floatrates.com/daily/ars.json"
+    },
+    {
+        "name": "Armenia Dram (AMD)",
+        "url": "http://www.floatrates.com/daily/amd.json"
+    },
+    {
+        "name": "Aruban florin (AWG)",
+        "url": "http://www.floatrates.com/daily/awg.json"
+    },
+    {
+        "name": "Azerbaijan Manat (AZN)",
+        "url": "http://www.floatrates.com/daily/azn.json"
+    },
+    {
+        "name": "Bahamian Dollar (BSD)",
+        "url": "http://www.floatrates.com/daily/bsd.json"
+    },
+    {
+        "name": "Bahrain Dinar (BHD)",
+        "url": "http://www.floatrates.com/daily/bhd.json"
+    },
+    {
+        "name": "Bangladeshi taka (BDT)",
+        "url": "http://www.floatrates.com/daily/bdt.json"
+    },
+    {
+        "name": "Barbadian Dollar (BBD)",
+        "url": "http://www.floatrates.com/daily/bbd.json"
+    },
+    {
+        "name": "Belarussian Ruble (BYR)",
+        "url": "http://www.floatrates.com/daily/byr.json"
+    },
+    {
+        "name": "Belarussian Ruble (BYN)",
+        "url": "http://www.floatrates.com/daily/byn.json"
+    },
+    {
+        "name": "Belize dollar (BZD)",
+        "url": "http://www.floatrates.com/daily/bzd.json"
+    },
+    {
+        "name": "Bolivian Boliviano (BOB)",
+        "url": "http://www.floatrates.com/daily/bob.json"
+    },
+    {
+        "name": "Bosnia and Herzegovina convertible mark (BAM)",
+        "url": "http://www.floatrates.com/daily/bam.json"
+    },
+    {
+        "name": "Botswana Pula (BWP)",
+        "url": "http://www.floatrates.com/daily/bwp.json"
+    },
+    {
+        "name": "Brazilian Real (BRL)",
+        "url": "http://www.floatrates.com/daily/brl.json"
+    },
+    {
+        "name": "Brunei Dollar (BND)",
+        "url": "http://www.floatrates.com/daily/bnd.json"
+    },
+    {
+        "name": "Bulgarian Lev (BGN)",
+        "url": "http://www.floatrates.com/daily/bgn.json"
+    },
+    {
+        "name": "Burundian franc (BIF)",
+        "url": "http://www.floatrates.com/daily/bif.json"
+    },
+    {
+        "name": "Cambodian riel (KHR)",
+        "url": "http://www.floatrates.com/daily/khr.json"
+    },
+    {
+        "name": "Cape Verde escudo (CVE)",
+        "url": "http://www.floatrates.com/daily/cve.json"
+    },
+    {
+        "name": "Central African CFA Franc (XAF)",
+        "url": "http://www.floatrates.com/daily/xaf.json"
+    },
+    {
+        "name": "CFP Franc (XPF)",
+        "url": "http://www.floatrates.com/daily/xpf.json"
+    },
+    {
+        "name": "Chilean Peso (CLP)",
+        "url": "http://www.floatrates.com/daily/clp.json"
+    },
+    {
+        "name": "Chinese Yuan (CNY)",
+        "url": "http://www.floatrates.com/daily/cny.json"
+    },
+    {
+        "name": "Colombian Peso (COP)",
+        "url": "http://www.floatrates.com/daily/cop.json"
+    },
+    {
+        "name": "Congolese franc (CDF)",
+        "url": "http://www.floatrates.com/daily/cdf.json"
+    },
+    {
+        "name": "Costa Rican Col\u00f3n (CRC)",
+        "url": "http://www.floatrates.com/daily/crc.json"
+    },
+    {
+        "name": "Croatian Kuna (HRK)",
+        "url": "http://www.floatrates.com/daily/hrk.json"
+    },
+    {
+        "name": "Cuban peso (CUP)",
+        "url": "http://www.floatrates.com/daily/cup.json"
+    },
+    {
+        "name": "Czech Koruna (CZK)",
+        "url": "http://www.floatrates.com/daily/czk.json"
+    },
+    {
+        "name": "Danish Krone (DKK)",
+        "url": "http://www.floatrates.com/daily/dkk.json"
+    },
+    {
+        "name": "Djiboutian franc (DJF)",
+        "url": "http://www.floatrates.com/daily/djf.json"
+    },
+    {
+        "name": "Dominican Peso (DOP)",
+        "url": "http://www.floatrates.com/daily/dop.json"
+    },
+    {
+        "name": "East Caribbean Dollar (XCD)",
+        "url": "http://www.floatrates.com/daily/xcd.json"
+    },
+    {
+        "name": "Egyptian Pound (EGP)",
+        "url": "http://www.floatrates.com/daily/egp.json"
+    },
+    {
+        "name": "Eritrean nakfa (ERN)",
+        "url": "http://www.floatrates.com/daily/ern.json"
+    },
+    {
+        "name": "Ethiopian birr (ETB)",
+        "url": "http://www.floatrates.com/daily/etb.json"
+    },
+    {
+        "name": "Fiji Dollar (FJD)",
+        "url": "http://www.floatrates.com/daily/fjd.json"
+    },
+    {
+        "name": "Gambian dalasi (GMD)",
+        "url": "http://www.floatrates.com/daily/gmd.json"
+    },
+    {
+        "name": "Georgian lari (GEL)",
+        "url": "http://www.floatrates.com/daily/gel.json"
+    },
+    {
+        "name": "Ghanaian Cedi (GHS)",
+        "url": "http://www.floatrates.com/daily/ghs.json"
+    },
+    {
+        "name": "Gibraltar pound (GIP)",
+        "url": "http://www.floatrates.com/daily/gip.json"
+    },
+    {
+        "name": "Guatemalan Quetzal (GTQ)",
+        "url": "http://www.floatrates.com/daily/gtq.json"
+    },
+    {
+        "name": "Guinean franc (GNF)",
+        "url": "http://www.floatrates.com/daily/gnf.json"
+    },
+    {
+        "name": "Guyanese dollar (GYD)",
+        "url": "http://www.floatrates.com/daily/gyd.json"
+    },
+    {
+        "name": "Haitian gourde (HTG)",
+        "url": "http://www.floatrates.com/daily/htg.json"
+    },
+    {
+        "name": "Honduran Lempira (HNL)",
+        "url": "http://www.floatrates.com/daily/hnl.json"
+    },
+    {
+        "name": "Hong Kong Dollar (HKD)",
+        "url": "http://www.floatrates.com/daily/hkd.json"
+    },
+    {
+        "name": "Hungarian Forint (HUF)",
+        "url": "http://www.floatrates.com/daily/huf.json"
+    },
+    {
+        "name": "Icelandic Krona (ISK)",
+        "url": "http://www.floatrates.com/daily/isk.json"
+    },
+    {
+        "name": "Indian Rupee (INR)",
+        "url": "http://www.floatrates.com/daily/inr.json"
+    },
+    {
+        "name": "Indonesian Rupiah (IDR)",
+        "url": "http://www.floatrates.com/daily/idr.json"
+    },
+    {
+        "name": "Iranian rial (IRR)",
+        "url": "http://www.floatrates.com/daily/irr.json"
+    },
+    {
+        "name": "Iraqi dinar (IQD)",
+        "url": "http://www.floatrates.com/daily/iqd.json"
+    },
+    {
+        "name": "Israeli New Sheqel (ILS)",
+        "url": "http://www.floatrates.com/daily/ils.json"
+    },
+    {
+        "name": "Jamaican Dollar (JMD)",
+        "url": "http://www.floatrates.com/daily/jmd.json"
+    },
+    {
+        "name": "Jordanian Dinar (JOD)",
+        "url": "http://www.floatrates.com/daily/jod.json"
+    },
+    {
+        "name": "Kazakhstani Tenge (KZT)",
+        "url": "http://www.floatrates.com/daily/kzt.json"
+    },
+    {
+        "name": "Kenyan shilling (KES)",
+        "url": "http://www.floatrates.com/daily/kes.json"
+    },
+    {
+        "name": "Kuwaiti Dinar (KWD)",
+        "url": "http://www.floatrates.com/daily/kwd.json"
+    },
+    {
+        "name": "Kyrgyzstan Som (KGS)",
+        "url": "http://www.floatrates.com/daily/kgs.json"
+    },
+    {
+        "name": "Lao kip (LAK)",
+        "url": "http://www.floatrates.com/daily/lak.json"
+    },
+    {
+        "name": "Latvian Lats (LVL)",
+        "url": "http://www.floatrates.com/daily/lvl.json"
+    },
+    {
+        "name": "Lebanese Pound (LBP)",
+        "url": "http://www.floatrates.com/daily/lbp.json"
+    },
+    {
+        "name": "Lesotho loti (LSL)",
+        "url": "http://www.floatrates.com/daily/lsl.json"
+    },
+    {
+        "name": "Liberian dollar (LRD)",
+        "url": "http://www.floatrates.com/daily/lrd.json"
+    },
+    {
+        "name": "Libyan Dinar (LYD)",
+        "url": "http://www.floatrates.com/daily/lyd.json"
+    },
+    {
+        "name": "Lithuanian Litas (LTL)",
+        "url": "http://www.floatrates.com/daily/ltl.json"
+    },
+    {
+        "name": "Macanese pataca (MOP)",
+        "url": "http://www.floatrates.com/daily/mop.json"
+    },
+    {
+        "name": "Macedonian denar (MKD)",
+        "url": "http://www.floatrates.com/daily/mkd.json"
+    },
+    {
+        "name": "Malagasy ariary (MGA)",
+        "url": "http://www.floatrates.com/daily/mga.json"
+    },
+    {
+        "name": "Malawian kwacha (MWK)",
+        "url": "http://www.floatrates.com/daily/mwk.json"
+    },
+    {
+        "name": "Malaysian Ringgit (MYR)",
+        "url": "http://www.floatrates.com/daily/myr.json"
+    },
+    {
+        "name": "Maldivian rufiyaa (MVR)",
+        "url": "http://www.floatrates.com/daily/mvr.json"
+    },
+    {
+        "name": "Mauritanian Ouguiya (MRO)",
+        "url": "http://www.floatrates.com/daily/mro.json"
+    },
+    {
+        "name": "Mauritanian ouguiya (MRU)",
+        "url": "http://www.floatrates.com/daily/mru.json"
+    },
+    {
+        "name": "Mauritian Rupee (MUR)",
+        "url": "http://www.floatrates.com/daily/mur.json"
+    },
+    {
+        "name": "Mexican Peso (MXN)",
+        "url": "http://www.floatrates.com/daily/mxn.json"
+    },
+    {
+        "name": "Moldova Lei (MDL)",
+        "url": "http://www.floatrates.com/daily/mdl.json"
+    },
+    {
+        "name": "Mongolian togrog (MNT)",
+        "url": "http://www.floatrates.com/daily/mnt.json"
+    },
+    {
+        "name": "Moroccan Dirham (MAD)",
+        "url": "http://www.floatrates.com/daily/mad.json"
+    },
+    {
+        "name": "Mozambican metical (MZN)",
+        "url": "http://www.floatrates.com/daily/mzn.json"
+    },
+    {
+        "name": "Myanma Kyat (MMK)",
+        "url": "http://www.floatrates.com/daily/mmk.json"
+    },
+    {
+        "name": "Namibian dollar (NAD)",
+        "url": "http://www.floatrates.com/daily/nad.json"
+    },
+    {
+        "name": "Nepalese Rupee (NPR)",
+        "url": "http://www.floatrates.com/daily/npr.json"
+    },
+    {
+        "name": "Neth. Antillean Guilder (ANG)",
+        "url": "http://www.floatrates.com/daily/ang.json"
+    },
+    {
+        "name": "New Taiwan Dollar  (TWD)",
+        "url": "http://www.floatrates.com/daily/twd.json"
+    },
+    {
+        "name": "New Turkmenistan Manat (TMT)",
+        "url": "http://www.floatrates.com/daily/tmt.json"
+    },
+    {
+        "name": "New Zealand Dollar (NZD)",
+        "url": "http://www.floatrates.com/daily/nzd.json"
+    },
+    {
+        "name": "Nicaraguan C\u00f3rdoba (NIO)",
+        "url": "http://www.floatrates.com/daily/nio.json"
+    },
+    {
+        "name": "Nigerian Naira (NGN)",
+        "url": "http://www.floatrates.com/daily/ngn.json"
+    },
+    {
+        "name": "Norwegian Krone (NOK)",
+        "url": "http://www.floatrates.com/daily/nok.json"
+    },
+    {
+        "name": "Omani Rial (OMR)",
+        "url": "http://www.floatrates.com/daily/omr.json"
+    },
+    {
+        "name": "Pakistani Rupee (PKR)",
+        "url": "http://www.floatrates.com/daily/pkr.json"
+    },
+    {
+        "name": "Panamanian Balboa (PAB)",
+        "url": "http://www.floatrates.com/daily/pab.json"
+    },
+    {
+        "name": "Papua New Guinean kina (PGK)",
+        "url": "http://www.floatrates.com/daily/pgk.json"
+    },
+    {
+        "name": "Paraguayan Guaran\u00ed (PYG)",
+        "url": "http://www.floatrates.com/daily/pyg.json"
+    },
+    {
+        "name": "Peruvian Nuevo Sol (PEN)",
+        "url": "http://www.floatrates.com/daily/pen.json"
+    },
+    {
+        "name": "Philippine Peso (PHP)",
+        "url": "http://www.floatrates.com/daily/php.json"
+    },
+    {
+        "name": "Polish Zloty (PLN)",
+        "url": "http://www.floatrates.com/daily/pln.json"
+    },
+    {
+        "name": "Qatari Rial (QAR)",
+        "url": "http://www.floatrates.com/daily/qar.json"
+    },
+    {
+        "name": "Romanian New Leu (RON)",
+        "url": "http://www.floatrates.com/daily/ron.json"
+    },
+    {
+        "name": "Russian Rouble (RUB)",
+        "url": "http://www.floatrates.com/daily/rub.json"
+    },
+    {
+        "name": "Rwandan franc (RWF)",
+        "url": "http://www.floatrates.com/daily/rwf.json"
+    },
+    {
+        "name": "Salvadoran colon (SVC)",
+        "url": "http://www.floatrates.com/daily/svc.json"
+    },
+    {
+        "name": "Samoan tala (WST)",
+        "url": "http://www.floatrates.com/daily/wst.json"
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe Dobra (STN)",
+        "url": "http://www.floatrates.com/daily/stn.json"
+    },
+    {
+        "name": "Saudi Riyal (SAR)",
+        "url": "http://www.floatrates.com/daily/sar.json"
+    },
+    {
+        "name": "Serbian Dinar (RSD)",
+        "url": "http://www.floatrates.com/daily/rsd.json"
+    },
+    {
+        "name": "Seychelles rupee (SCR)",
+        "url": "http://www.floatrates.com/daily/scr.json"
+    },
+    {
+        "name": "Sierra Leonean leone (SLL)",
+        "url": "http://www.floatrates.com/daily/sll.json"
+    },
+    {
+        "name": "Singapore Dollar (SGD)",
+        "url": "http://www.floatrates.com/daily/sgd.json"
+    },
+    {
+        "name": "Solomon Islands dollar (SBD)",
+        "url": "http://www.floatrates.com/daily/sbd.json"
+    },
+    {
+        "name": "Somali shilling (SOS)",
+        "url": "http://www.floatrates.com/daily/sos.json"
+    },
+    {
+        "name": "South African Rand (ZAR)",
+        "url": "http://www.floatrates.com/daily/zar.json"
+    },
+    {
+        "name": "South Korean Won (KRW)",
+        "url": "http://www.floatrates.com/daily/krw.json"
+    },
+    {
+        "name": "South Sudanese pound (SSP)",
+        "url": "http://www.floatrates.com/daily/ssp.json"
+    },
+    {
+        "name": "Sri Lanka Rupee (LKR)",
+        "url": "http://www.floatrates.com/daily/lkr.json"
+    },
+    {
+        "name": "Sudanese pound (SDG)",
+        "url": "http://www.floatrates.com/daily/sdg.json"
+    },
+    {
+        "name": "Surinamese dollar (SRD)",
+        "url": "http://www.floatrates.com/daily/srd.json"
+    },
+    {
+        "name": "Swazi lilangeni (SZL)",
+        "url": "http://www.floatrates.com/daily/szl.json"
+    },
+    {
+        "name": "Swedish Krona (SEK)",
+        "url": "http://www.floatrates.com/daily/sek.json"
+    },
+    {
+        "name": "Syrian pound (SYP)",
+        "url": "http://www.floatrates.com/daily/syp.json"
+    },
+    {
+        "name": "Tajikistan Ruble (TJS)",
+        "url": "http://www.floatrates.com/daily/tjs.json"
+    },
+    {
+        "name": "Tanzanian shilling (TZS)",
+        "url": "http://www.floatrates.com/daily/tzs.json"
+    },
+    {
+        "name": "Thai Baht (THB)",
+        "url": "http://www.floatrates.com/daily/thb.json"
+    },
+    {
+        "name": "Tongan pa\u02bbanga (TOP)",
+        "url": "http://www.floatrates.com/daily/top.json"
+    },
+    {
+        "name": "Trinidad Tobago Dollar (TTD)",
+        "url": "http://www.floatrates.com/daily/ttd.json"
+    },
+    {
+        "name": "Tunisian Dinar (TND)",
+        "url": "http://www.floatrates.com/daily/tnd.json"
+    },
+    {
+        "name": "Turkish Lira (TRY)",
+        "url": "http://www.floatrates.com/daily/try.json"
+    },
+    {
+        "name": "U.A.E Dirham (AED)",
+        "url": "http://www.floatrates.com/daily/aed.json"
+    },
+    {
+        "name": "Ugandan shilling (UGX)",
+        "url": "http://www.floatrates.com/daily/ugx.json"
+    },
+    {
+        "name": "Ukrainian Hryvnia (UAH)",
+        "url": "http://www.floatrates.com/daily/uah.json"
+    },
+    {
+        "name": "Uruguayan Peso (UYU)",
+        "url": "http://www.floatrates.com/daily/uyu.json"
+    },
+    {
+        "name": "Uzbekistan Sum (UZS)",
+        "url": "http://www.floatrates.com/daily/uzs.json"
+    },
+    {
+        "name": "Vanuatu vatu (VUV)",
+        "url": "http://www.floatrates.com/daily/vuv.json"
+    },
+    {
+        "name": "Venezuelan Bolivar (VES)",
+        "url": "http://www.floatrates.com/daily/ves.json"
+    },
+    {
+        "name": "Venezuelan Bolivar (till 20 August 2018) (VEF)",
+        "url": "http://www.floatrates.com/daily/vef.json"
+    },
+    {
+        "name": "Vietnamese Dong (VND)",
+        "url": "http://www.floatrates.com/daily/vnd.json"
+    },
+    {
+        "name": "West African CFA Franc (XOF)",
+        "url": "http://www.floatrates.com/daily/xof.json"
+    },
+    {
+        "name": "Yemeni rial (YER)",
+        "url": "http://www.floatrates.com/daily/yer.json"
+    },
+    {
+        "name": "Zambian kwacha (ZMW)",
+        "url": "http://www.floatrates.com/daily/zmw.json"
+    }
+]
