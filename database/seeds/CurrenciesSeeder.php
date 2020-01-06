@@ -14,7 +14,7 @@ class CurrenciesSeeder extends Seeder
     public function run()
     {
 		// @todo scrape the available feeds with fallback on pre-stored json
-		$currencies = json_decode(File::get(resource_path('currencies.json')), true);
+		$currencies = json_decode(File::get(database_path('resources/currencies.json')), true);
 		foreach($currencies as $currency) {
 			$currency = Currency::create([
 				'name' => $currency['name'],
