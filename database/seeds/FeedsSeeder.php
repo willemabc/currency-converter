@@ -14,7 +14,7 @@ class FeedsSeeder extends Seeder
     public function run()
     {
 		// @todo scrape the available feeds with fallback on pre-stored json
-		$feeds = json_decode(File::get(resource_path('feeds.json')), true);
+		$feeds = json_decode(File::get(database_path('resources/feeds.json')), true);
 		foreach($feeds as $feed) {
 			$feed = Feed::create([
 				'name' => $feed['name'],
